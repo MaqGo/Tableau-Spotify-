@@ -1,4 +1,4 @@
-# 📊 Tableau Visualization – Week 2 Day 2 Task
+# 📊 Tableau Visualization
 
 This project includes an interactive Tableau dashboard built as part of a data visualization lab task. It demonstrates the ability to analyze and communicate insights from data using visual storytelling techniques.
 
